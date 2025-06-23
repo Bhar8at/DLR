@@ -1,6 +1,0 @@
-# ignore datasets
-Datasets/
-Papers/
-demos/
-.DS_Store
-.gitignore
